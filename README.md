@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fatihalii
-- 👀 I’m interested in Back-End Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently developing web projects
 - 💞️ I’m looking to collaborate on new opportunities
 
