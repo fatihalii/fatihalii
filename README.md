@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatihalii
 - 👀 I’m interested in Back-End Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on new projects
+- 🌱 I’m currently developing web projects
+- 💞️ I’m looking to collaborate on new opportunities
 
 
 <!---
