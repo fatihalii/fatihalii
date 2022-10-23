@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatihalii
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently developing web projects
+- 🌱 I’m currently working on Java and Spring
 - 💞️ I’m looking to collaborate on new opportunities
 
 
