@@ -2,8 +2,9 @@
 <h3 align="center">I am a Software Developer</h3>
 
 - 🔭 I’m currently working on **Currency Converter**
-- 👀 I’m interested in Information Technologies
 - 🌱 I’m currently learning **Spring Boot**
+- 👀 I’m interested in Information Technologies
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
