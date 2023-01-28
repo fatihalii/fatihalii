@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">I am a Software Developer</h3>
 
 - 🔭 I’m currently working on **Currency Converter**
 - 👀 I’m interested in IT
