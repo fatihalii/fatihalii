@@ -3,7 +3,6 @@
 
 - 👀 I’m interested in Information Technologies
 - 🌱 I’m currently learning **Spring Boot**
-- 🔭 I’m currently working on **Currency Converter**
 
 
 <h3 align="left">Connect with me:</h3>
