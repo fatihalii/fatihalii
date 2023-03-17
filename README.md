@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">I am a Software Developer</h3>
 
-- 👀 I’m interested in Information Technologies
-- 🌱 I’m currently learning **Spring Boot**
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning **Back-End Development**
 
 
 <p align="left">
