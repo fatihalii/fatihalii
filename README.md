@@ -2,7 +2,7 @@
 <h3 align="center">I am a Software Developer</h3>
 
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Java Spring Development**
 
 
 <p align="left">
