@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Fatih and I'm a Software Developer from Istanbul.<br>With a keen focus on building efficient and reliable Spring Boot applications. <br>My journey is guided by a commitment to problem-solving and a genuine passion for technology.</p>
+<p align="left">My name is Fatih and I'm a Software Developer.<br>With a keen focus on building efficient and reliable Spring Boot applications. <br>My journey is guided by a commitment to problem-solving and a genuine passion for technology.</p>
 
 ###
 
